@@ -7,3 +7,6 @@ dependencies:
   - scipy
   - matplotlib
   - pandas
+  - jupyterlab
+  - jupyter-collaboration
+  - pip
